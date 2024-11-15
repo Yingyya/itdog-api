@@ -6,6 +6,8 @@
 
 基于 [ITDog](https://www.itdog.cn) 的 API 程序，本程序与 ITDog 没有任何关系，使用本程序造成的一切后果与开发者无关！如本程序侵害了您的利益，请发送邮件至 [u@yingyya.cn](mailto://u@yingyya.cn) 联系我进行删除！
 
+可前往 Actions 进行下载，并指定 `HTTP_PORT` 环境变量来指定对应的 HTTP 端口。
+
 ## Installation
 
 ```bash
